@@ -1,9 +1,6 @@
 <h1 align="center">Hello, I’m Shivakumar Souta 👋</h1>
 <h3 align="center">🎓 Student at KG Reddy College of Engineering & Technology</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Aspiring+Backend+Developer+%7C+AI+&+Python+Enthusiast;Building+Robust+APIs+%26+Smart+Tools;Let%27s+Innovate+Together!+🚀" alt="Typing SVG" />
-</p>
 
 ---
 
