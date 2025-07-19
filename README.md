@@ -25,11 +25,11 @@
 ## 📂 My Featured Projects
 
 ### 🌟 [CropConnectAI](https://github.com/shivkumars005/cropconnectai-app)
-`CropConnect is a platform designed to connect farmers with buyers, providing a seamless and efficient way to trade agricultural products. Our mission is to empower farmers by giving them direct access to markets and fair prices for their produce.`  
+CropConnect is a platform designed to connect farmers with buyers, providing a seamless and efficient way to trade agricultural products. Our mission is to empower farmers by giving them direct access to markets and fair prices for their produce.
 Tech used: `Python`, `HTML`, `CSS`, `JS`
 
 ### 🌟 [SmartDischarge](https://github.com/shivkumars005/SmartDischarge)
-`SmartDischarge is an AI-driven application built to automate and optimize the generation of patient discharge summaries. In a fast-paced clinical environment, time is critical — and repetitive paperwork shouldn't be what slows healthcare down.`  
+SmartDischarge is an AI-driven application built to automate and optimize the generation of patient discharge summaries. In a fast-paced clinical environment, time is critical — and repetitive paperwork shouldn't be what slows healthcare down.
 Tech used: `Python`, `HTML`, `CSS`, `JS`
 
 ---
