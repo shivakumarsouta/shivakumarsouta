@@ -24,11 +24,11 @@
 
 ## 📂 My Featured Projects
 
-### 🌟 [CropConnectAI](https://github.com/shivkumars005/cropconnectai-app)
+### 🌟 [CropConnectAI](https://github.com/shivakumarsouta/cropconnectai-app)
 CropConnect is a platform designed to connect farmers with buyers, providing a seamless and efficient way to trade agricultural products. Our mission is to empower farmers by giving them direct access to markets and fair prices for their produce.
 Tech used: `Python`, `HTML`, `CSS`, `JS`
 
-### 🌟 [SmartDischarge](https://github.com/shivkumars005/SmartDischarge)
+### 🌟 [SmartDischarge](https://github.com/shivakumarsouta/SmartDischarge)
 SmartDischarge is an AI-driven application built to automate and optimize the generation of patient discharge summaries. In a fast-paced clinical environment, time is critical — and repetitive paperwork shouldn't be what slows healthcare down.
 Tech used: `Python`, `HTML`, `CSS`, `JS`
 
@@ -37,12 +37,12 @@ Tech used: `Python`, `HTML`, `CSS`, `JS`
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivkumars005&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivkumars005&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivakumarsouta&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivakumarsouta&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkumars005&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivakumarsouta&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ Tech used: `Python`, `HTML`, `CSS`, `JS`
   <a href="https://www.linkedin.com/in/shivakumarsouta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:shivakumarsouta18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://shivakumarsouta-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel"/></a>
-  <a href="https://github.com/shivkumars005" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/shivakumarsouta" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -65,5 +65,5 @@ Tech used: `Python`, `HTML`, `CSS`, `JS`
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivkumars005&label=Profile+Views&color=blue&style=flat" alt="profile view counter" />
+  <img src="https://komarev.com/ghpvc/?username=shivakumarsouta&label=Profile+Views&color=blue&style=flat" alt="profile view counter" />
 </p>
